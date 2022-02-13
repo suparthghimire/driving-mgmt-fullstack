@@ -6,7 +6,7 @@ This is not a production grade application.
 
 ## Requirements
 
-The Application Runs on Node JS v10x and above. The tool is made for Express Framework.
+The Application Runs on Node JS v10x and above.
 
 ### Software Requirements
 
